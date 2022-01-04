@@ -2,6 +2,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0;
 }
 section {
   display: flex;
@@ -11,6 +12,10 @@ h1 {
 }
 .orange-color {
   color: orange;
+}
+.top-banner {
+  background-image: url("../images/top-banner.png");
+  background-repeat: no-repeat;
 }
 .half-width {
   width: 50%;
